@@ -55,3 +55,5 @@ while(obiHealth > 0){
         console.log(`Obiwan dies to the chosen one`)
     }
 }
+
+console.log(`Pretty good fight if you ask me`)
